@@ -2,12 +2,9 @@
 
 [![CI](https://github.com/philiprehberger/kt-hash-kit/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-hash-kit/actions/workflows/publish.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/hash-kit)](https://central.sonatype.com/artifact/com.philiprehberger/hash-kit)
+[![License](https://img.shields.io/github/license/philiprehberger/kt-hash-kit)](LICENSE)
 
 Hashing utilities: MD5, SHA-256, SHA-512, HMAC, CRC32 with hex and base64 encoding.
-
-## Requirements
-
-- Kotlin 1.9+ / Java 17+
 
 ## Installation
 
@@ -15,7 +12,7 @@ Hashing utilities: MD5, SHA-256, SHA-512, HMAC, CRC32 with hex and base64 encodi
 
 ```kotlin
 dependencies {
-    implementation("com.philiprehberger:hash-kit:0.1.0")
+    implementation("com.philiprehberger:hash-kit:0.1.2")
 }
 ```
 
@@ -25,7 +22,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>hash-kit</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.2</version>
 </dependency>
 ```
 
