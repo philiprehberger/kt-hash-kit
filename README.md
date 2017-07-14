@@ -1,6 +1,6 @@
 # hash-kit
 
-[![CI](https://github.com/philiprehberger/kt-hash-kit/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-hash-kit/actions/workflows/publish.yml)
+[![Tests](https://github.com/philiprehberger/kt-hash-kit/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-hash-kit/actions/workflows/publish.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/hash-kit)](https://central.sonatype.com/artifact/com.philiprehberger/hash-kit)
 [![License](https://img.shields.io/github/license/philiprehberger/kt-hash-kit)](LICENSE)
 
@@ -11,9 +11,7 @@ Hashing utilities: MD5, SHA-256, SHA-512, HMAC, CRC32 with hex and base64 encodi
 ### Gradle (Kotlin DSL)
 
 ```kotlin
-dependencies {
-    implementation("com.philiprehberger:hash-kit:0.1.3")
-}
+implementation("com.philiprehberger:hash-kit:0.1.4")
 ```
 
 ### Maven
@@ -22,7 +20,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>hash-kit</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.4</version>
 </dependency>
 ```
 
