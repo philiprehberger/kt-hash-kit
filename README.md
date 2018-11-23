@@ -3,6 +3,7 @@
 [![Tests](https://github.com/philiprehberger/kt-hash-kit/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-hash-kit/actions/workflows/publish.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/hash-kit)](https://central.sonatype.com/artifact/com.philiprehberger/hash-kit)
 [![License](https://img.shields.io/github/license/philiprehberger/kt-hash-kit)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Hashing utilities: MD5, SHA-256, SHA-512, HMAC, CRC32 with hex and base64 encoding.
 
