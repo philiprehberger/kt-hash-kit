@@ -12,7 +12,7 @@ Hashing utilities: MD5, SHA-256, SHA-512, HMAC, CRC32 with hex and base64 encodi
 
 ```kotlin
 dependencies {
-    implementation("com.philiprehberger:hash-kit:0.1.2")
+    implementation("com.philiprehberger:hash-kit:0.1.3")
 }
 ```
 
@@ -22,7 +22,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>hash-kit</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3</version>
 </dependency>
 ```
 
